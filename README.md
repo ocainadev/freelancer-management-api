@@ -1,23 +1,23 @@
 # freelancer management API
 
-API desenvolvida em ASP.NET Core para gerenciamento de freelancers e projetos.
+API developed in ASP.NET Core for users and projects management.
 
-## Tecnologias
+## Tech Stack
 
 - ASP.NET Core
 - C#
 - Entity Framework
 - SQL Server
 
-## Funcionalidades
+## Features
 
-- Cadastro de usuários
-- Cadastro de projetos
-- Envio de propostas
-- Atualização de status de projetos
+- Users Register
+- Projects Register
+- Send offers
+- Projects Status
 
-## Como rodar
+## How execute
 
-1. Clone o repositório
-2. Execute o projeto
-3. Acesse via Swagger
+1. Clone this repository
+2. run the project
+3. Acess in Swagger
